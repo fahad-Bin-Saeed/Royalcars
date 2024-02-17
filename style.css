@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.NAV1{
+    background-color: rgb(7, 7, 62);
+    height: 80px;
+    display: flex;
+    
+}
+.material{
+    color: grey;
+    padding-top: 24px;
+    padding-left: 30px;
+    font-size: large;
+}
+.material a{
+    color:grey ;
+    text-decoration: none;
+}
+.material2{
+    color: grey;
+    padding-top: 24px;
+    padding-left: 600px;
+    font-size: large;
+}
+.material2 a{
+    padding: 0px 17px;
+    color:grey ;
+    text-decoration: none;
+}
+.hoME{
+    padding-left: 400px;
+    display: flex;
+}
+.DRop{
+    padding: 12px 80px;
+}
+.main h1{
+    padding-top: 17px;
+    font-weight: bolder;
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.main p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    /* background-color: aquamarine; */
+}
+.background{
+
+    height: 300px;
+    background-image: url(https://demo.htmlcodex.com/1585/car-rental-html-template/img/about.png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+}
+.BOX{
+    width: 300px;
+    height: 200px;
+    background-color: darkgrey;
+    display: flex;
+}
+.chotadiv{
+    width: 80px;
+    height: 60px;
+    color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.row{
+    justify-content: center;
+    padding-left: 30px;
+}
+.footer{
+    list-style: none;
+    padding: 20px 50px ;
+    text-align: center;
+}
+
